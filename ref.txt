@@ -1,0 +1,5 @@
+Get your own SAP HANA, express edition, instance: https://www.sap.com/developer/topics/sap-hana-express.html
+Tutorials for Development in XS Advanced : https://goo.gl/ecfMDu
+XS Advanced Development for (not so) dummies (blog): https://goo.gl/vsuy2H
+Intro to Core Data Services (SAP CodeTalk): https://goo.gl/Fpm4JT
+Intro to XS OData (SAP CodeTalk): https://goo.gl/hQHmeK
